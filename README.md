@@ -8,7 +8,7 @@ For a better understanding of the collapse/blast mechanics and overall gameplay,
   
 </p>
 <p align="center">
-- ### How To Play
+### How To Play
   
 1. Create or Join a group .
    
